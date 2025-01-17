@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(gnss_comm_msgs)
+project(gnss_comm_interfaces)
 
 # to make sure ccache produces colorized output.
 add_compile_options(-fdiagnostics-color=always)
